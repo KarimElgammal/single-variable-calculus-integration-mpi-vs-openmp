@@ -11,7 +11,7 @@ Start working thread # 1 of 2\
 Result with OpenMP: 3.815784\
 real 17.042s\
 user 33.700s\
-sys 0.020s\
+sys 0.020s
 
 MPI result:
 --------------
