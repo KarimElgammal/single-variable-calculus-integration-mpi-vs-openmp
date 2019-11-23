@@ -5,9 +5,9 @@ To compare OpenMP and MPI speedups let us look on such simple example of single 
 
 OpenMP result:
 ----------
-Number of quantization steps 500M
-Start working thread # 0 of 2
-Start working thread # 1 of 2
+!Number of quantization steps 500M
+!Start working thread # 0 of 2
+!Start working thread # 1 of 2
 Result with OpenMP: 3.815784
 real 17.042s
 user 33.700s
