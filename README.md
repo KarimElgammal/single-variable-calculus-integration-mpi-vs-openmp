@@ -1,5 +1,4 @@
 # single-variable-calculus-integration-mpi-vs-openmp
 
-![equation](http://latex.codecogs.com/gif.latex?\int)
-
+To compare OpenMP and MPI speedups let us look on such simple example of single valued integration problem:
 ![alt text](img/eqn1.png)
