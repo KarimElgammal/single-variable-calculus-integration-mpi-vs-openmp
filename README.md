@@ -24,4 +24,3 @@ Result with MPI: 3.815784
 real 17.342s
 user 0.090s
 sys 0.030s
-
